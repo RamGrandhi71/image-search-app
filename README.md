@@ -1,6 +1,3 @@
-Certainly! Here's a sample README file for your GitHub repository, providing detailed instructions on how to install and run your React application. Customize the content based on your project structure and specific technologies.
-
-```markdown
 # Image-Based Product Search React App
 
 This is a single-page React application that allows users to search for products by uploading images. The application integrates the Google Cloud Vision API to analyze uploaded images and displays a list of similar products based on the image analysis.
@@ -57,13 +54,5 @@ npm start
 - The Google Cloud Vision API will analyze the image and show a list of five similar products.
 - Click on "Show More" to load additional products.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 Replace placeholders like `YOUR_API_KEY`, `your-username`, and `image-search-app` with your actual API key, GitHub username, and repository name. This README provides a comprehensive guide for users to install, run, and contribute to your React application.
